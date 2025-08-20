@@ -1,20 +1,21 @@
-# 📊 Projet 6 - Optimisez la gestion des données d'une boutique avec R ou Python
+# 📊 Projet 9 - Analysez les ventes d'une librairie avec R ou Python
 
-> **Résumé** : Ce dépôt contient le travail réalisé dans le cadre du **Projet 6 du parcours Data Analyst (OpenClassrooms)**.
-> L’objectif est ,au sein d'une entreprise ou les données sont mal organisées, de faire cohabiter les différents jeux de données pour effectuer l'analyse demandée.
+> **Résumé** : Ce dépôt contient le travail réalisé dans le cadre du **Projet 9 du parcours Data Analyst (OpenClassrooms)**.
+> L’objectif est , en ayant accès à toutes les données de vente de votre client, une librairie, de répondre à leurs demandes en analysant les comportements d'achats et en réalisant une prévision des ventes.
 
 ---
 
 ## 🎯 Objectifs du projet
-- L'objectif est d'approfondir ses compétences dans le traitement et le nettoyage des données du stock d'une boutique
+L'objectif est d'apprendre à analyser des indicateurs et des corrélations et à réaliser des statistiques descriptives. 
+Vous utiliserez les différentes librairies de R ou de Python pour générer vos propres graphiques afin de synthétiser l'information que vous présenterez.
+
+ 
 
 ---
 
 ## ✅ Compétences visées
-- **Effectuer des analyses univariées et multivariées des données pré-traitées**
-- **Pré-traiter des données pour explorer et comprendre leurs caractéristiques**
-- **Traiter, nettoyer des données et définir la gestion des incohérences en conformité du RGPD**
-
+- **Analyser un jeu de données avec séries temporelles pour mesurer un phénomène statistique**
+- **Réaliser des tests statistiques sur des données afin de tester et valider des hypothèses**
 ---
 
 ## 🗂️ Livrables
